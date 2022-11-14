@@ -3,7 +3,7 @@
 # Nathalie Goffette
 *Always look on the bright side of life*
 
-![photo de Nathalie](https://media-exp1.licdn.com/dms/image/D4E03AQG5xj8M2XRvfQ/profile-displayphoto-shrink_800_800/0/1667581167052?e=1674086400&v=beta&t=shoouOSsRD5oOYuUo2-qvYDKm3Hbcc6ZdH_hz1fvrpU){width = 100 ; height = 100}
+![photo de Nathalie](https://media-exp1.licdn.com/dms/image/D4E03AQG5xj8M2XRvfQ/profile-displayphoto-shrink_800_800/0/1667581167052?e=1674086400&v=beta&t=shoouOSsRD5oOYuUo2-qvYDKm3Hbcc6ZdH_hz1fvrpU =100x)
 
 ### prête à faire de mon mieux
 
