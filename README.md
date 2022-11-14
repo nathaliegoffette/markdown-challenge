@@ -34,7 +34,7 @@ From language specialist with kids to language specialist for computers.
 
 
 
-<< previous [Nour Everaert](https://github.com/NourEve) || [NATHALIE GOFFETTE](https://github.com/nathaliegoffette) || next [Hugo Goorickx](https://github.com/Hugo-Goorickx) >>
+<< previous [Nadim El Nakadi](https://github.com/NadimElnakadi) || [NATHALIE GOFFETTE](https://github.com/nathaliegoffette) || next [Nathalie Vanden Abeele](https://github.com/nathvda/) >>
 
 Footer de la page
 
