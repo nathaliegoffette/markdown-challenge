@@ -27,7 +27,7 @@ Always trying to look for solutions, well organiserd, ready to build together.
 ### A funny story 
 Previously, I was a speech therapist. A kind of language professionnel, with kids mostly. But now, I'm becoming some kind of computer's language specialist...
 
-##### TL;DR 
+##### Short Version 
 From language specialist with kids to language specialist for computers.
 
 
