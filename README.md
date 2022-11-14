@@ -9,7 +9,7 @@
 
 |Birthday|Gender|Favorite color|Favorite food|Pinneaple on pizza|
 |:------:|:----:|:------------:|:-----------:|:----------------:|
-|11/03|Female|Green|Blueberries|No|
+|11/03|Female|Green|Blueberries|<ul><li>- [ ] Yes </li><li> - [x] No</li></ul>|
 
 
 ### Hobbies
